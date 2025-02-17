@@ -1,0 +1,6 @@
+terraform-ec2/terraform.tfstate
+terraform-ec2/.terraform.lock.hcl
+terraform-ec2/.terraform/providers/registry.terraform.io/hashicorp/aws/5.87.0/darwin_arm64/LICENSE.txt
+terraform-ec2/.terraform/providers/registry.terraform.io/hashicorp/aws/5.87.0/darwin_arm64/terraform-provider-aws_v5.87.0_x5
+terraform-ec2/terraform.tfstate.backup
+terraform-ec2/.terraform.tfstate.lock.info

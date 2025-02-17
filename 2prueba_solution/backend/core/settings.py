@@ -149,7 +149,7 @@ REST_FRAMEWORK = {
 # ##################################################################### #
 # ################### CORS              ############################### #
 # ##################################################################### #
-# Allow CORS for ip public ec2 in production
+# P2:Allow CORS for ip public ec2 for Front in production
 FRONTEND_IP = os.getenv("FRONTEND_IP", "http://localhost:3000")
 CORS_ALLOWED_ORIGINS = [f"http://{FRONTEND_IP}:3000","http://localhost:3000", "http://127.0.0.1:3000"]
 

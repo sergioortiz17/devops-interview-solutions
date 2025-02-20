@@ -1,6 +1,10 @@
 # Solucion Prueba 3 - CI/CD
 
-https://github.com/user-attachments/assets/7cc62c6e-a916-4820-a4df-b6d9b086ba39
+
+
+https://github.com/user-attachments/assets/1e55d044-1707-4b28-9130-aad8cfdfcf32
+
+
 
 🎥 **Link del Drive con Demo->**  [P3_Demo](https://drive.google.com/file/d/1pA9BUw5aK_iCqz1TDx5vO9lPVm9fEIpT/view?usp=sharing)
 

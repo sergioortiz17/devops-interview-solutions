@@ -1,7 +1,10 @@
 # **Solución de Prueba Técnica – Craftech🚀**  
 ### _Postulación para DevOps Trainee – Sergio Ortiz_ 
 
-![ezgif com-gif-to-mp4-converter](https://github.com/user-attachments/assets/3fab99d1-fe32-4e86-8570-3093c74730d8)
+
+![gif_mario_craftech](https://github.com/user-attachments/assets/29b514bf-528b-4747-87a9-3c7097f2b5ff)
+
+
 ---
 
 ## **Consigna Prueba 1 - Diagrama de Red**
@@ -14,7 +17,8 @@
 
 📌 _El diagrama debe hacer un mejor uso de las soluciones distribuidas._  
 ### **✅ Solución:**  
-![image](https://github.com/user-attachments/assets/a246e700-fbf1-433d-bfbe-a304b90ef176)
+![image](https://github.com/user-attachments/assets/a9bafdec-049e-4eef-b627-3b73c0cb1eeb)
+
 
 
 🔗 **📄 Descripción completa del diagrama aquí ->** [README_P1](https://github.com/sergioortiz17/devops-interview-solutions/tree/main/1prueba_solution#readme)

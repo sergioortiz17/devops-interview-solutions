@@ -18,12 +18,11 @@
 El Dockerfile del Frontend y el Dockerfile del Backend utilizan multi-staging para optimizar la imagen del contenedor, reduciendo su tamaño y mejorando el tiempo de ejecución.
 
 - Imagen sin Multistage:
-![image](https://github.com/user-attachments/assets/9bc06a41-3647-4004-99ae-91e1ea58ce1e)
+![image](https://github.com/user-attachments/assets/602f5217-b2d0-4e1b-8a4e-d5821be53fd1)
 
-- Imagen con Multistage local:
-![image](https://github.com/user-attachments/assets/44351398-e4df-4635-b5bd-b1c6603ee611)
 - Imagen con Multistage en EC2 AWS:
-![image](https://github.com/user-attachments/assets/fe66bf78-33cc-4de4-b639-8bf0ec5fcebf)
+![image](https://github.com/user-attachments/assets/78c89dce-407d-44b5-8a30-e0b0e39235a3)
+
 
 
 | Servicio  | Tamaño Original (MB) | Tamaño Optimizado (MB) | % Optimización |

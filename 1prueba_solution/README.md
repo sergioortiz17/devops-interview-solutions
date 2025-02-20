@@ -1,6 +1,6 @@
 # Solucion Prueba 1 - Diagrama de Red
 
-![Diagrama_Craftech](https://github.com/user-attachments/assets/0a38195b-006d-4ba8-a3c1-bd283be8a486)
+![Diagrama_Craftech](https://github.com/user-attachments/assets/49dea769-18ac-4cca-b7b2-c8c0c84d61e4)
 
 ### **✅ Solución:**  
 - Segui la sugerencia de usar LucidChart tiene plantillas y los iconos oficiales de AWS, y tiene 7 dias de free trial.

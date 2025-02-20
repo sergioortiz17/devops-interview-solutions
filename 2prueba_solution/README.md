@@ -1,6 +1,7 @@
 # Solucion Prueba 2 - Despliegue de una aplicación Django y React.js
 
-![awsP2_demo](https://github.com/user-attachments/assets/80c14f10-014e-4707-bd75-d8b0ad2761b1)
+![awsP2_demo](https://github.com/user-attachments/assets/df272069-c47c-4f95-860b-8f24f84c8cb9)
+
 
 🎥 **Link del Drive con Demo->**  [P2_Demo](https://drive.google.com/file/d/1pOTtSG3o77Xwe8CsJbKS6EoazKq1UI0K/view?usp=sharing)
 
